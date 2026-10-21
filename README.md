@@ -31,8 +31,9 @@ Latest release: [Releases › Latest](https://github.com/Costkeel/releases/relea
 - HTTPS in front of it (a reverse proxy, a load balancer or a Cloudflare tunnel).
 - Someone who can deploy a CloudFormation stack in your payer (management) account.
 
-[`INSTALL.md`](INSTALL.md) has every step, about an hour of work. AWS then takes up to 24 hours to
-write the first billing export.
+The [latest release](https://github.com/Costkeel/releases/releases/latest)'s `INSTALL.md` has
+every step, about an hour of work. AWS then takes up to 24 hours to write the first billing
+export.
 
 ## Verify the image
 
@@ -66,7 +67,7 @@ Microsoft Teams, Jira, a webhook, or Google or Microsoft sign-in. The full list 
 
 ## Support
 
-Contact Sarv Systems at <!-- support address -->. Please include the diagnostics file from
+Contact Sarv Systems, and include the diagnostics file from
 **Settings › Plan and licence › Download diagnostics**. It holds versions, states and recent
 errors: no figures, resource names, ARNs, account IDs or email addresses.
 
