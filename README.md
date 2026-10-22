@@ -20,6 +20,9 @@ public.
 
 The image is `ghcr.io/costkeel/costkeel`, for amd64 and arm64.
 
+**The first public release is coming soon.** Until then, Sarv Systems sends pilot customers
+the release files directly.
+
 Latest release: [Releases › Latest](https://github.com/Costkeel/releases/releases/latest).
 
 ## Before you start
